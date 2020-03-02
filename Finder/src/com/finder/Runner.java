@@ -4,7 +4,7 @@ public class Runner {
 
 	public static void main(String[] args) {
 
-		finder("finding", 3, 'n');
+		System.out.println(finder("finding", 3, 'n'));
 
 	}
 
